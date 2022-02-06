@@ -1,0 +1,2 @@
+# GWSC22_NAOC
+NAOC team for GWSC in 2022

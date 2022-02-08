@@ -18,11 +18,12 @@ You can use _subplot_ to show these three figures.
 There are a lot of spectrograms for different signals. We show an example of spectrogram of LTC signal as 
 ![LTC](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/LTCspe.png)
 ## Topic 2 (GW Signals)
-We can see the folder [_GWSIG_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/GWSIG)
+We can see the folder [_GWSIG_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/GWSIG) for previous results
 ### Antenna Pattern Function (APF)
 ### Strain
-### LISA's Orbit
-### LISA's APF
+### LISA
+Accoring to Soumya D. Mohanty's code, we can plot a GIF file to show the orbit of LISA
+![LISA orbit](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/LISA_orbitography.gif)
 
 
 # References

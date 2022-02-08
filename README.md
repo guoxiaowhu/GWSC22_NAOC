@@ -12,6 +12,7 @@ With the filter designed by us in [_ThreeSignalsFiltering.m_](https://github.com
 - s_3: ![s3](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/s3.png)
 where red line represents the filtered signals, blue line represents the orginal signal.
 
+You can use _subplot_ to show.
 
 ## References
 Some lecture notes can see [this link](https://note.youdao.com/ynoteshare/index.html?id=ad50ed7fa5f67565dce3dfd9b68e0a00&type=note&_time=1644224870530). 

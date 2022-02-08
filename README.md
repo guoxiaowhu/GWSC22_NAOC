@@ -15,7 +15,7 @@ where red line represents the filtered signals, blue line represents the orginal
 You can use _subplot_ to show these three figures.
 ### Spectrogram
 There are a lot of spectrograms for different signals. We show an example of spectrogram of LTC signal as 
-![LTC](https://github.com/guoxiaowhu/GWSC_NAOC/blob/main/figs/LTCspe.png)
+![LTC](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/LTCspe.png)
 
 ## References
 Some lecture notes can see [this link](https://note.youdao.com/ynoteshare/index.html?id=ad50ed7fa5f67565dce3dfd9b68e0a00&type=note&_time=1644224870530). 

@@ -19,7 +19,7 @@ Time-frequency relation
 from Wenyuan Guo (ralspi)
 
 ### Filtering 
-With the filter designed by us in [_ThreeSignalsFiltering.m_](https://github.com/guoxiaowhu/GWSC_NAOC/blob/main/DSP/ThreeSignalsFiltering.m), we can filter signals _s_ into three signals:
+With the filter designed by us in [_ThreeSignalsFiltering.m_](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/topic1/ThreeSignalsFiltering.m), we can filter signals _s_ into three signals:
 ![filter](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/filter.png?raw=true)
 where red line represents the filtered signals, blue line represents the orginal signal.
 

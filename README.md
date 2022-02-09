@@ -15,7 +15,7 @@ FFT
 from Wenyuan Guo (ralspi)
 
 Time-frequency relation
-![Spe](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram2.png)
+![Spe](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram3.png)
 from Wenyuan Guo (ralspi)
 
 ### Filtering 

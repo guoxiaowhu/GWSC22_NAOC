@@ -31,11 +31,11 @@ A \sin(2 \pi f_1 (t-t_a)+2 \pi f_0 t_a) & if: t > t_a
 \end{cases}
 $$
 
-![500](Picture/StepFM_sig.jpg)
+![400](Picture/StepFM_sig.jpg)
 
-![500](Picture/StepFMSig.jpg)
+![400](Picture/StepFMSig.jpg)
 
-![500](Picture/TFStFMSig.jpg)
+![400](Picture/TFStFMSig.jpg)
 
 
 
@@ -47,22 +47,22 @@ s(t)= \sin(2 \pi f_1 t + \phi_1) + \sin(2 \pi f_2 t + \phi_2)+
 $$
 
 ### 低通滤波器的设计
-![500](Picture/LowpassDesign.jpg)
+![400](Picture/LowpassDesign.jpg)
 
-![500](Picture/LowpassfftSig.jpg)
+![400](Picture/LowpassfftSig.jpg)
 
-![500](Picture/LowpassSig.jpg)
+![400](Picture/LowpassSig.jpg)
 ### 带通滤波器的设计
 带通
-![500](Picture/BandpassDesign.jpg)
+![400](Picture/BandpassDesign.jpg)
 
-![500](Picture/BandpassfftSig.jpg)
+![400](Picture/BandpassfftSig.jpg)
 
-![500](Picture/BandpassSig.jpg)
+![400](Picture/BandpassSig.jpg)
 
 ### 高通滤波器的设计
-![500](Picture/HighpassDesign.jpg)
+![400](Picture/HighpassDesign.jpg)
 
-![500](Picture/HighpassfftSig.jpg)
+![400](Picture/HighpassfftSig.jpg)
 
-![500](Picture/HighpassSig.jpg)
+![400](Picture/HighpassSig.jpg)

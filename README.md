@@ -23,8 +23,6 @@ With the filter designed by us in [_ThreeSignalsFiltering.m_](https://github.com
 ![filter](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/filter.png?raw=true)
 where red line represents the filtered signals, blue line represents the orginal signal.
 
-You can use _subplot_ to show these three figures.
-
 ## Topic 2 (GW Signals)
 We can see the folder [_GWSIG_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/GWSIG) for previous results
 ### Antenna Pattern Function (APF)

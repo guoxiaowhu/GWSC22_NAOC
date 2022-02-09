@@ -6,6 +6,11 @@ The repository for a Collaboration for the GWSC in 2022.
 
 # Results
 ## Topic 1 (Signal Processing)
+### Signals
+[Signals](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/signal%20figure.png)
+from Wenyuan Guo (ralspi)
+### Spectrogram
+[Spe](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram.png)
 ### Filtering 
 With the filter designed by us in [_ThreeSignalsFiltering.m_](https://github.com/guoxiaowhu/GWSC_NAOC/blob/main/DSP/ThreeSignalsFiltering.m), we can filter signals _s_ into three signals:
 - s_1: ![s1](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/s1.png)

@@ -14,7 +14,7 @@ FFT
 ![FFT](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram-fft.png)
 from Wenyuan Guo (ralspi)
 
-spectrogram
+Time-frequency relation
 ![Spe](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram.png)
 from Wenyuan Guo (ralspi)
 

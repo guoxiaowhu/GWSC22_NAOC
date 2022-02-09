@@ -7,15 +7,15 @@ The repository for a Collaboration for the GWSC in 2022.
 # Results
 ## Topic 1 (Signal Processing)
 ### Signals
-![Signals](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/signal%20figure.png)
+![Signals](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/signal%20figure2.png)
 from Wenyuan Guo (ralspi)
 ### Spectrogram
 FFT
-![FFT](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram-fft.png)
+![FFT](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram-fft2.png)
 from Wenyuan Guo (ralspi)
 
 Time-frequency relation
-![Spe](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram.png)
+![Spe](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram2.png)
 from Wenyuan Guo (ralspi)
 
 ### Filtering 

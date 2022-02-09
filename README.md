@@ -10,8 +10,14 @@ The repository for a Collaboration for the GWSC in 2022.
 ![Signals](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/signal%20figure.png)
 from Wenyuan Guo (ralspi)
 ### Spectrogram
+FFT
+![FFT](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram-fft.png)
+from Wenyuan Guo (ralspi)
+
+spectrogram
 ![Spe](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram.png)
 from Wenyuan Guo (ralspi)
+
 ### Filtering 
 With the filter designed by us in [_ThreeSignalsFiltering.m_](https://github.com/guoxiaowhu/GWSC_NAOC/blob/main/DSP/ThreeSignalsFiltering.m), we can filter signals _s_ into three signals:
 - s_1: ![s1](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/s1.png)
@@ -20,9 +26,7 @@ With the filter designed by us in [_ThreeSignalsFiltering.m_](https://github.com
 where red line represents the filtered signals, blue line represents the orginal signal.
 
 You can use _subplot_ to show these three figures.
-### Spectrogram
-There are a lot of spectrograms for different signals. We show an example of spectrogram of LTC signal as 
-![LTC](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/LTCspe.png)
+
 ## Topic 2 (GW Signals)
 We can see the folder [_GWSIG_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/GWSIG) for previous results
 ### Antenna Pattern Function (APF)

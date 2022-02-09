@@ -2,7 +2,7 @@
 The repository for a Collaboration for the GWSC in 2022.
 
 # Members
-[郭潇（国台）](https://github.com/guoxiaowhu)、[张云龙（国台）](https://github.com/zhangyunlong001)、[赵悦同（国台）](https://github.com/LeonsZhao)、[程功（理论所）](https://github.com/chenggongphy)、牟博（清华）、[郭文渊（华南理工）](https://github.com/ralspi)、孙孟飞（重大）、孙厚义（华科）、刘云龙（华南理工）、朱经亚（河南大学）、郭盼（国科大）、[龚禔（河南大学）](https://github.com/ttigong)、宋仑（华科）、王博锐（重大）、罗智（重大）、李亚玲（南昌大学）、刘雨晨（南昌大学）、张明汇（重大）、何显龙（武大）、袁泳（武大）
+[郭潇（国台）](https://github.com/guoxiaowhu)、[张云龙（国台）](https://github.com/zhangyunlong001)、[赵悦同（国台）](https://github.com/LeonsZhao)、[程功（理论所）](https://github.com/chenggongphy)、牟博（清华）、[郭文渊（华南理工）](https://github.com/ralspi)、孙孟飞（重大）、孙厚义（华科）、[刘云龙（华南理工）](https://github.com/CKeXue)、朱经亚（河南大学）、郭盼（国科大）、[龚禔（河南大学）](https://github.com/ttigong)、宋仑（华科）、王博锐（重大）、罗智（重大）、李亚玲（南昌大学）、刘雨晨（南昌大学）、张明汇（重大）、何显龙（武大）、袁泳（武大）
 
 # Results
 ## Topic 1 (Signal Processing)

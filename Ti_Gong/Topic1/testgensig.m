@@ -22,7 +22,7 @@ figure;
 for i=1:9
     dataLen = TimeVec{i}(end) - TimeVec{i}(1);
     nSamples = length(TimeVec{i});
-    kNyq = 120;
+    kNyq = 160;
     %kNyq = floor(nSamples/2) + 1;
     posFreq = (0:(kNyq-1))*(1/dataLen);
     Signal = gensig(TimeVec{i},A,Coefs{i},i);

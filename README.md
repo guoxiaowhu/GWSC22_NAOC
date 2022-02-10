@@ -11,7 +11,7 @@ The repository for a Collaboration for the GWSC in 2022.
 from Wenyuan Guo (ralspi)
 ### Spectrogram
 FFT
-![FFT](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram-fft2.png)
+![FFT](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/spectrogram-fft4.png)
 from Wenyuan Guo (ralspi)
 
 Time-frequency relation

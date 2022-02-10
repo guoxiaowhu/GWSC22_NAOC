@@ -33,6 +33,10 @@ Accoring to Soumya D. Mohanty's code, using code [_LISA_animation.m_](https://gi
 ![LISA orbit](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/LISA_orbitography.gif)
 
 
+## Topic 3 (Noise)
+We can see the folder [_NOISE_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/NOISE)
+
+
 # References
 Some lecture notes can see [this link](https://note.youdao.com/ynoteshare/index.html?id=ad50ed7fa5f67565dce3dfd9b68e0a00&type=note&_time=1644224870530). 
 Codes can refer to [Soumya D. Mohanty](https://github.com/mohanty-sd)'s [GWSC](https://github.com/mohanty-sd/GWSC), and [DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE). Some codes and materials can also see [GWSC_NAOC](https://github.com/guoxiaowhu/GWSC_NAOC) (especially the [*task*](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/task) folder) in last year.

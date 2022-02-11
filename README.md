@@ -28,7 +28,8 @@ where red line represents the filtered signals, blue line represents the orginal
 We can see the folder [_GWSIG_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/GWSIG) for previous results
 ### Antenna Pattern Function (APF)
 ### Strain
-
+For a sine signal,
+![sin](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/sinStrain.png?raw=true)
 ### LISA
 Accoring to Soumya D. Mohanty's code, using code [_LISA_animation.m_](https://github.com/guoxiaowhu/GWSC_NAOC/blob/main/GWSIG/LISA_animation.m) we can plot a GIF file to show the orbit of LISA
 ![LISA orbit](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/LISA_orbitography.gif)

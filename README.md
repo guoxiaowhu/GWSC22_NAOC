@@ -35,7 +35,7 @@ For a sine signal,
 ### LISA
 Accoring to Soumya D. Mohanty's code, using code [_LISA_animation.m_](https://github.com/guoxiaowhu/GWSC_NAOC/blob/main/GWSIG/LISA_animation.m) we can plot a GIF file to show the orbit of LISA
 ![LISA orbit](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/LISA_orbitography.gif)
-An example of APF of LISA for a centrain source location
+An example of APF of LISA as the function of position (phase Phi) of LISA for two TDI detector tensor I and II under a centrain source location (thet, phi) with code [_testdetframefpfc_psi_LISA.m_](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/topic2/testdetframefpfc_psi_LISA.m)
 ![LISA_APF](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/APF_LISA.png?raw=true)
 
 

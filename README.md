@@ -6,7 +6,7 @@ The repository for a Collaboration for the GWSC in 2022.
 
 # Results
 ## Topic 1 (Signal Processing)
-See also [_Ti_Gong_'s results](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Ti_Gong)[_Yunlong_Liu's topic1_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/YunLong_Liu/Topic1)
+See also [_Ti_Gong_'s results](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Ti_Gong) and [_Yunlong_Liu's topic1_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/YunLong_Liu/Topic1)
 ### Signals
 ![Signals](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/signal%20figure2.png)
 from Wenyuan Guo (ralspi)

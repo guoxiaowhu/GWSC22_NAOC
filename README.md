@@ -43,6 +43,11 @@ For a sine h+ and hx signal, its response is shown as
 ## Topic 3 (Noise)
 We can see the folder [_NOISE_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/NOISE)
 
+## Topic 4 
+The signal detection and estimation in noise
+
+## Topic 5 (GLRT Optimization)
+
 
 ## Topic 6 (Application)
 With the codes from [He Wang's PSO python demo](https://github.com/iphysresearch/PSO_python_demo), we can find the signal, with parameters a1=51.3605915101784; a2=28.832078856931652; a3=10.308191421692223. And the signal is shown as

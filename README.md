@@ -27,6 +27,8 @@ where red line represents the filtered signals, blue line represents the orginal
 ## Topic 2 (GW Signals)
 We can see the folder [_GWSIG_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/GWSIG) for previous results
 ### Antenna Pattern Function (APF)
+With the code [_testdetframefpfc_psi.m_](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/topic2/testdetframefpfc_psi.m), we can plot APF as
+![APF](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/APF_psi.png?raw=true)
 ### Strain
 For a sine signal,
 ![sin](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/sinStrain.png?raw=true)

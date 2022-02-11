@@ -35,7 +35,8 @@ For a sine signal,
 ### LISA
 Accoring to Soumya D. Mohanty's code, using code [_LISA_animation.m_](https://github.com/guoxiaowhu/GWSC_NAOC/blob/main/GWSIG/LISA_animation.m) we can plot a GIF file to show the orbit of LISA
 ![LISA orbit](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/LISA_orbitography.gif)
-
+An example of APF of LISA for a centrain source location 
+![LISA APF](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/APF_LISA.png)
 
 ## Topic 3 (Noise)
 We can see the folder [_NOISE_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/NOISE)

@@ -52,6 +52,11 @@ fitness function is Sigma\_i((x\_i-35.5)^2-10*cos(2*pi*x)+10)
 ![LISA_response](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/BestLocs.png?raw=true)
 The best location is (35.0025, 35.0025)
 
+Use _test\_crcbqcpso.m_ to find signal
+
+Estimated parameters: a1=9.6224; a2=4.2643; a3=2.048
+
+
 ## Topic 6 (Application)
 With the codes from [He Wang's PSO python demo](https://github.com/iphysresearch/PSO_python_demo), we can find the signal, with parameters a1=51.3605915101784; a2=28.832078856931652; a3=10.308191421692223. And the signal is shown as
 ![signal](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/output_sig.png?raw=true)

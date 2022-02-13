@@ -23,6 +23,6 @@ rng('default')
 psoOut = crcbpso(fitFuncHandle,2,[],2);
 %Plot the trajectory of the best particle
 figure;
-plot(psoOut.allBestLoc(:,1),psoOut.allBestLoc(:,2),'.-'));
+plot(psoOut.allBestLoc(:,1),psoOut.allBestLoc(:,2),'.-');
 figure;
 plot(psoOut.allBestFit);

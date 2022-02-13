@@ -43,12 +43,12 @@ figure;
 hold on;
 plot(dataX,dataY,'.');
 plot(dataX,sig);
-for lpruns = 1:nRuns
-    plot(dataX,outStruct.allRunsOutput(lpruns).estSig,'Color',[51,255,153]/255,'LineWidth',4.0);
-end
-plot(dataX,outStruct.bestSig,'Color',[76,153,0]/255,'LineWidth',2.0);
-legend('Data','Signal',...
-       ['Estimated signal: ',num2str(nRuns),' runs'],...
+%for lpruns = 1:nRuns
+%    plot(dataX,outStruct.allRunsOutput(lpruns).estSig,':','Color',[255,255,0]/255,'LineWidth',2.0);
+%end
+plot(dataX,outStruct.bestSig,'-.','Color',[255,0,0]/255,'LineWidth',2.0);
+xlabel('t')
+legend('Data','Signal',...%['Estimated signal: ',num2str(nRuns),' runs'],['Estimated signal: ',num2str(nRuns),' runs'],...
        'Estimated signal: Best run');
 disp(['Estimated parameters: a1=',num2str(outStruct.bestQcCoefs(1)),...
                              '; a2=',num2str(outStruct.bestQcCoefs(2)),...

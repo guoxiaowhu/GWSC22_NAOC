@@ -49,12 +49,11 @@ The signal detection and estimation in noise
 ## Topic 5 (GLRT Optimization)
 With _test\_crcbpso.m_
 fitness function is Sigma\_i((x\_i-35.5)^2-10*cos(2*pi*x)+10)
-![LISA_response](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/BestLocs.png?raw=true)
+![Best Locs](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/BestLocs.png?raw=true)
 The best location is (35.0025, 35.0025)
 
-Use _test\_crcbqcpso.m_ to find signal
-
-
+Use _test\_crcbqcpso.m_ to find signal,
+![LISA_response](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/qcsig.png?raw=true)
 Estimated parameters: a1=9.6224; a2=4.2643; a3=2.048
 
 

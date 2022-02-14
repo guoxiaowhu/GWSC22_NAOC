@@ -1,1 +1,23 @@
 Used the function defined in set3, pay attention when checking this program.
+Here I give the result of one run. Be awared that dataM used an random, so the picture of it is just the refrence for this result only.
+Lg1 =
+
+   10.6069
+
+
+Lg2 =
+
+   71.4192
+
+
+Lg3 =
+
+    2.7812
+
+
+LgM =
+
+    2.3256
+
+Here I ran this program repeadly, Lg1-3 almost don't change, and LgM remains between 0-5, so I'd say that there's a significant probability that data2 processes a signal.
+Data3 is most likely a noise-only data, data1 still has a probability to process a signal.

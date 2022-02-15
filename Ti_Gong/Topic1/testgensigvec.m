@@ -1,5 +1,5 @@
-clear
-close all
+clear;
+close all;
 
 A = 1;
 Coefs = {[20,0],[1,20,0],[0.5,0.1,100,0],[10,20,1],[20,1,0],[10,20,1],[-1,1,5,0,2],[-1,10,1,0,2],[0,1,10]};
@@ -9,7 +9,7 @@ SigTilte={'Sinusoidal signal','Linear chirp signal','Sine-Gaussian signal','FM s
 % Generate signals
 figure;
 for i=1:9
-    Signal = gensig(TimeVec{i},A,Coefs{i},i);
+    Signal = gensigvec(TimeVec{i},A,Coefs{i},i);
     subplot(3,3,i);
     plot(TimeVec{i},Signal);
     title(SigTilte{i});
@@ -25,14 +25,14 @@ for i=1:9
     kNyq = 160;
     %kNyq = floor(nSamples/2) + 1;
     posFreq = (0:(kNyq-1))*(1/dataLen);
-    Signal = gensig(TimeVec{i},A,Coefs{i},i);
+    Signal = gensigvec(TimeVec{i},A,Coefs{i},i);
     fftSig = fft(Signal);
     fftSig = fftSig(1:kNyq);
     subplot(3,3,i);
     plot(posFreq,abs(fftSig));
     title(SigTilte{i});
     xlabel('Frequency/Hz')
-    ylabel('Intension')
+    ylabel('Periodogram')
 end
 
 % Plot spectrogram
@@ -43,7 +43,7 @@ winLenSmpls = floor(winLen*samplFreq);
 ovrlpSmpls = floor(ovrlp*samplFreq);
 figure;
 for i=1:9
-    Signal = gensig(TimeVec{i},A,Coefs{i},i);
+    Signal = gensigvec(TimeVec{i},A,Coefs{i},i);
     [S,F,T]=spectrogram(Signal,winLenSmpls,ovrlpSmpls,[],samplFreq);
     subplot(3,3,i);
     imagesc(T,F,abs(S));

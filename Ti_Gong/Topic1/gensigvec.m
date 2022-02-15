@@ -1,6 +1,6 @@
-function signal = gensig(dataX,snr,Coefs,SignalType)
+function signal = gensigvec(dataX,snr,Coefs,SignalType)
 % Generate different signals
-% S = GENSIG(X,SNR,C,STYPE)
+% S = GENSIGVEC(X,SNR,C,STYPE)
 % Generates different signals S. X is the vector of time stamps at which
 % the samples of the signal are to be computed. SNR is the matched filtering 
 % signal-to-noise ratio of S, and C is the vector of coefficients that 

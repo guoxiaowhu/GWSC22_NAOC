@@ -3,7 +3,7 @@ close all
 A=1;
 Coefs=[20,0];
 TimeVec=0:0.001:1;
-Signal=gensig(TimeVec,A,Coefs,1);
+Signal=gensigvec(TimeVec,A,Coefs,1);
 samplFreq=1000;
 %Plot a spectrogram
 %----------------

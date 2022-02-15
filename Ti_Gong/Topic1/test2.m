@@ -3,7 +3,7 @@ close all
 A=1;
 Coefs=[0,1,10];
 TimeVec=-2:0.001:2;
-Signal=gensig(TimeVec,A,Coefs,9);
+Signal=gensigvec(TimeVec,A,Coefs,9);
 plot(TimeVec,Signal);
 dataLen = TimeVec(end)-TimeVec(1);
 nSamples = length(TimeVec);

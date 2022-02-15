@@ -45,11 +45,14 @@ We can see the folder [_NOISE_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/mai
 
 ## Topic 4 
 The signal detection and estimation in noise
+For sine signal
 ![SNR](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Mu_Bo/lab4/set1/pic2.jpg?raw=true)
 from Mu Bo
 
 ![sig noise](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Mu_Bo/lab4/set1/pic4.jpg?raw=true)
 from Mu Bo
+![FFT LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/FFT_LTC.png?raw=true)
+![Spe LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/spe_LTC_n.png?raw=true)
 ## Topic 5 (GLRT Optimization)
 With _test\_crcbpso.m_
 fitness function is Sigma\_i((x\_i-35.5)^2-10*cos(2*pi*x)+10)

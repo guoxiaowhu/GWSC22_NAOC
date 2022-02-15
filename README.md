@@ -45,7 +45,10 @@ We can see the folder [_NOISE_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/mai
 
 ## Topic 4 
 The signal detection and estimation in noise
-![](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Mu_Bo/lab4/set1/pic2.jpg?raw=true)
+![SNR](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Mu_Bo/lab4/set1/pic2.jpg?raw=true)
+from Mu Bo
+
+![sig noise](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Mu_Bo/lab4/set1/pic4.jpg?raw=true)
 from Mu Bo
 ## Topic 5 (GLRT Optimization)
 With _test\_crcbpso.m_

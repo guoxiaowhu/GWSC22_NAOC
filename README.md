@@ -43,8 +43,7 @@ For a sine h+ and hx signal, its response is shown as
 ## Topic 3 (Noise)
 We can see the folder [_NOISE_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/NOISE)
 
-## Topic 4 
-The signal detection and estimation in noise
+## Topic 4 (The signal detection and estimation in noise)
 For sine signal
 ![SNR](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Mu_Bo/lab4/set1/pic2.jpg?raw=true)
 from Mu Bo
@@ -53,6 +52,7 @@ from Mu Bo
 from Mu Bo
 ![FFT LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/FFT_LTC.png?raw=true)
 ![Spe LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/spe_LTC_n.png?raw=true)
+Also see [_Ti Gong's topic 4_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Ti_Gong/Topic4)
 ## Topic 5 (GLRT Optimization)
 With _test\_crcbpso.m_
 fitness function is Sigma\_i((x\_i-35.5)^2-10*cos(2*pi*x)+10)

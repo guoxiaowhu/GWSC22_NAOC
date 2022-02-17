@@ -69,6 +69,7 @@ Estimated parameters: a1=9.6224; a2=4.2643; a3=2.048
 With the codes from [He Wang's PSO python demo](https://github.com/iphysresearch/PSO_python_demo), we can find the signal, with parameters a1=51.3605915101784; a2=28.832078856931652; a3=10.308191421692223. And the signal is shown as
 ![signal](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/output_sig.png?raw=true)
 
+(a1=50;a2=30;a3=10 key from Xiaobo)
 # References
 Some lecture notes can see [this link](https://note.youdao.com/ynoteshare/index.html?id=ad50ed7fa5f67565dce3dfd9b68e0a00&type=note&_time=1644224870530). 
 Codes can refer to [Soumya D. Mohanty](https://github.com/mohanty-sd)'s [GWSC](https://github.com/mohanty-sd/GWSC), and [DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE). Some codes and materials can also see [GWSC_NAOC](https://github.com/guoxiaowhu/GWSC_NAOC) in last year.

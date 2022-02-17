@@ -67,12 +67,12 @@ Estimated parameters: a1=9.6224; a2=4.2643; a3=2.048
 
 
 ## Topic 6 (Application)
-With the codes from [He Wang's PSO python demo](https://github.com/iphysresearch/PSO_python_demo), for data TrainingData.mat and analysisData.mat, we can find the signal, with parameters a1=51.3605915101784; a2=28.832078856931652; a3=10.308191421692223. And the signal is shown as
+With the codes from [He Wang's PSO python demo](https://github.com/iphysresearch/PSO_python_demo), for data TrainingData.mat and analysisData.mat, we can find the signal, with parameters a1=51.3605915101784; a2=28.832078856931652; a3=10.308191421692223; SNR= . And the signal is shown as
 ![signal](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/output_sig.png?raw=true)
-For data TrainingDataTF.mat and AnalysisDataTF.mat, we can find the signal, with parameters a1=51.73239824255724; a2=28.361217432284324; a3=10.454001420382449. And the signal is shown as
+For data TrainingDataTF.mat and AnalysisDataTF.mat, we can find the signal, with parameters a1=51.73239824255724; a2=28.361217432284324; a3=10.454001420382449; SNR=10.668288217137755. And the signal is shown as
 ![signalTF](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/output_sigTF.png?raw=true)
 
-(key: a1=50;a2=30;a3=10 from Xiaobo)
+(key: a1=50;a2=30;a3=10 SNR=8.4 or 15(TF) from Xiaobo)
 # References
 Some lecture notes can see [this link](https://note.youdao.com/ynoteshare/index.html?id=ad50ed7fa5f67565dce3dfd9b68e0a00&type=note&_time=1644224870530). 
 Codes can refer to [Soumya D. Mohanty](https://github.com/mohanty-sd)'s [GWSC](https://github.com/mohanty-sd/GWSC), and [DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE). Some codes and materials can also see [GWSC_NAOC](https://github.com/guoxiaowhu/GWSC_NAOC) in last year.

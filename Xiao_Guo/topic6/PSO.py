@@ -16,11 +16,9 @@ __all__ = ['crcbqcpsopsd',
            'innerprodpsd',
            's2rv',
            'crcbchkstdsrchrng']
-print("""
-Loading demo codes modified by He Wang [https://iphysresearch.github.io/]
-For original codes, see SDMBIGDAT19 (MATLAB) delivered by Soumya D. Mohanty
-[https://github.com/mohanty-sd/SDMBIGDAT19]
-""")
+#print("""Loading demo codes modified by He Wang [https://iphysresearch.github.io/]
+#For original codes, see SDMBIGDAT19 (MATLAB) delivered by Soumya D. Mohanty
+#[https://github.com/mohanty-sd/SDMBIGDAT19]""")
 
 # @jit(nopython=True, parallel=True)
 def crcbqcpsopsd(inParams, psoParams, nRuns):
@@ -74,6 +72,7 @@ def crcbqcpsopsd(inParams, psoParams, nRuns):
         'bestFitness': [],
         'bestSig': np.zeros(nSamples),
         'bestQcCoefs': np.zeros(3),
+        'bestSNR':0
     }
 
     # Allocate storage for outputs: results from all runs are stored
@@ -96,6 +95,7 @@ def crcbqcpsopsd(inParams, psoParams, nRuns):
                 'qcCoefs': np.zeros(3),
                 'estSig': np.zeros(nSamples),
                 'totalFuncEvals': [],
+                'SNR':0
             }
         fitVal[lpruns] = outStruct[lpruns]['bestFitness']
         allRunsOutput['fitVal'] = fitVal[lpruns]
@@ -103,13 +103,14 @@ def crcbqcpsopsd(inParams, psoParams, nRuns):
         _, qcCoefs = fHandle(outStruct[lpruns]['bestLocation'][np.newaxis,...], returnxVec=1)
         allRunsOutput['qcCoefs'] = qcCoefs[0]
 
-        estSig = crcbgenqcsig(inParams['dataX'], 1, qcCoefs[0])
+        estSig = crcbgenqcsig(inParams['dataX'], 1, qcCoefs[0])# Here use a fake SNR value
         estSig, _ = normsig4psd(estSig, inParams['sampFreq'], inParams['psdPosFreq'], 1)
         estAmp = innerprodpsd(inParams['dataY'], estSig, inParams['sampFreq'], inParams['psdPosFreq'])
         estSig = estAmp*estSig
-
+        
         allRunsOutput['estSig'] = estSig
         allRunsOutput['totalFuncEvals'] = outStruct[lpruns]['totalFuncEvals']
+        allRunsOutput['SNR'] = abs(estAmp)
         outResults['allRunsOutput'].append(allRunsOutput)
 
     #Find the best run
@@ -118,6 +119,7 @@ def crcbqcpsopsd(inParams, psoParams, nRuns):
     outResults['bestFitness'] = outResults['allRunsOutput'][bestRun]['fitVal']
     outResults['bestSig'] = outResults['allRunsOutput'][bestRun]['estSig']
     outResults['bestQcCoefs'] = outResults['allRunsOutput'][bestRun]['qcCoefs']
+    outResults['bestSNR'] = outResults['allRunsOutput'][bestRun]['SNR']
     return outResults, outStruct
 
 

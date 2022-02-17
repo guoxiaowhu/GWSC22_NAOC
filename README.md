@@ -33,8 +33,9 @@ With the code [_testdetframefpfc_psi.m_](https://github.com/guoxiaowhu/GWSC22_NA
 For a sine signal,
 ![sin](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/sinStrain.png?raw=true)
 ### LISA
-Accoring to Soumya D. Mohanty's code, using code [_LISA_animation.m_](https://github.com/guoxiaowhu/GWSC_NAOC/blob/main/GWSIG/LISA_animation.m) we can plot a GIF file to show the orbit of LISA
-![LISA orbit](https://raw.githubusercontent.com/guoxiaowhu/GWSC_NAOC/main/figs/LISA_orbitography.gif)
+Accoring to Soumya D. Mohanty's code, using code [_LISA_animation.m_](https://github.com/guoxiaowhu/GWSC_NAOC/blob/main/GWSIG/LISA_animation.m), combining its APF, we can plot a GIF file to show the orbit and APF of LISA
+![LISA orbit APF](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/YunLong_Liu/LISA_antenna_pattern.gif?raw=true)
+from Yunlong Liu
 An example of APF of LISA as the function of position (phase Phi) of LISA for two TDI detector tensor I and II under a centrain source location (thet, phi) with code [_testdetframefpfc_psi_LISA.m_](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/topic2/testdetframefpfc_psi_LISA.m)
 ![LISA_APF](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/APF_LISA.png?raw=true)
 For a sine h+ and hx signal, its response is shown as

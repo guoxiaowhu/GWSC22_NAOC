@@ -35,6 +35,7 @@ significance1 = sum(llrH0 > glrt1)/nH0data;
 significance2 = sum(llrH0 > glrt2)/nH0data;
 significance3 = sum(llrH0 > glrt3)/nH0data;
 
-disp(['Significance of GLRT data1 is ', num2str(significance1)]);
-disp(['Significance of GLRT data2 is ', num2str(significance2)]);
-disp(['Significance of GLRT data3 is ', num2str(significance3)]);
+x=sprintf('\n');
+disp(['For data1, the significance under H0(signal absent) is ', num2str(significance1), ',', x, 'which means the probability being a pure noise is ', num2str(significance1*100), '%,', x, 'and the probability having a signal is ', num2str((1-significance1)*100), '%.', x]);
+disp(['For data2, the significance under H0(signal absent) is ', num2str(significance2), ',', x, 'which means the probability being a pure noise is ', num2str(significance2*100), '%,', x, 'and the probability having a signal is ', num2str((1-significance2)*100), '%.', x]);
+disp(['For data3, the significance under H0(signal absent) is ', num2str(significance3), ',', x, 'which means the probability being a pure noise is ', num2str(significance3*100), '%,', x, 'and the probability having a signal is ', num2str((1-significance3)*100), '%.']);

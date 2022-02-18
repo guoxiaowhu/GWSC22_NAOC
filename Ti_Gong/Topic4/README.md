@@ -61,7 +61,15 @@
 ### Using [significance.m](significance.m), we can get the following results for 10000 times data realization.
 
 ```MATLAB
-Significance of GLRT data1 is 0.0009
-Significance of GLRT data2 is 0
-Significance of GLRT data3 is 0.0916
+For data1, the significance under H0(signal absent) is 0.0012, 
+which means the probability being a pure noise is 0.12%, 
+and the probability having a signal is 99.88%.
+
+For data2, the significance under H0(signal absent) is 0, 
+which means the probability being a pure noise is 0%, 
+and the probability having a signal is 100%.
+
+For data3, the significance under H0(signal absent) is 0.0904, 
+which means the probability being a pure noise is 9.04%, 
+and the probability having a signal is 90.96%.
 ```

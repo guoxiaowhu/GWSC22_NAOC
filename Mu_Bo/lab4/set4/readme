@@ -19,5 +19,5 @@ LgM =
 
     2.3256
 
-Here I ran this program repeadly, Lg1-3 almost don't change, and LgM remains between 0-5, so I'd say that there's a significant probability that data2 processes a signal.
+Here I ran this program repeatly, Lg1-3 almost don't change, and LgM remains between 0-5, so I'd say that there's a significant probability that data2 processes a signal.
 Data3 is most likely a noise-only data, data1 still has a probability to process a signal.

@@ -79,3 +79,5 @@ For data TrainingDataTF.mat and AnalysisDataTF.mat, using code [_demo-TF.ipynb_]
 # References
 Some lecture notes can see [this link](https://note.youdao.com/ynoteshare/index.html?id=ad50ed7fa5f67565dce3dfd9b68e0a00&type=note&_time=1644224870530). 
 Codes can refer to [Soumya D. Mohanty](https://github.com/mohanty-sd)'s [GWSC](https://github.com/mohanty-sd/GWSC), and [DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE). Some codes and materials can also see [GWSC_NAOC](https://github.com/guoxiaowhu/GWSC_NAOC) in last year.
+
+The repository for another group is [GWSC22-LNNU-ET-AL](https://github.com/octogen4/GWSC22-LNNU-ET-AL)

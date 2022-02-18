@@ -46,12 +46,14 @@ For a sine h+ and hx signal, its response is shown as (without Doppler effect)
 We can see the folder [_NOISE_](https://github.com/guoxiaowhu/GWSC_NAOC/tree/main/NOISE)
 
 ## Topic 4 (The signal detection and estimation in noise)
-For sine signal
+For sine signal, for 1000 realizations,
 ![SNR](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Mu_Bo/lab4/set1/pic2.jpg?raw=true)
 from MU Bo.
 
 ![sig noise](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Mu_Bo/lab4/set1/pic4.jpg?raw=true)
 from MU Bo.
+
+For LTC signal,
 ![FFT LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/FFT_LTC.png?raw=true)
 ![Spe LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/spe_LTC_n.png?raw=true)
 
@@ -63,7 +65,7 @@ fitness function is Sigma\_i((x\_i-35.5)^2-10*cos(2*pi*x)+10)
 The best location is (35.0025, 35.0025)
 
 Use _test\_crcbqcpso.m_ to find signal,
-![LISA_response](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/qcsig.png?raw=true)
+![qcsignal](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/qcsig.png?raw=true)
 Estimated parameters: a1=9.6224; a2=4.2643; a3=2.048
 
 

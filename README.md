@@ -55,7 +55,7 @@ from Mu Bo
 ![FFT LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/FFT_LTC.png?raw=true)
 ![Spe LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/spe_LTC_n.png?raw=true)
 
-Also see [_Ti_Gong's topic4_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Ti_Gong/Topic4)
+Also see [_Ti_Gong's topic4_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Ti_Gong/Topic4) and [_Mu Bo's lab4 set4_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Mu_Bo/lab4/set4)
 ## Topic 5 (GLRT Optimization)
 With _test\_crcbpso.m_
 fitness function is Sigma\_i((x\_i-35.5)^2-10*cos(2*pi*x)+10)

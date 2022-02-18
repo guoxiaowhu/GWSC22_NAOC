@@ -6,7 +6,7 @@ The repository for a Collaboration for the GWSC in 2022.
 
 # Results
 ## Topic 1 (Signal Processing)
-See also [_Ti Gong's topic 1 ](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Ti_Gong/Topic1) and [_Yunlong_Liu's topic1_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/YunLong_Liu/Topic1)
+See also [_Ti_Gong's topic1_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Ti_Gong/Topic1) and [_Yunlong_Liu's topic1_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/YunLong_Liu/Topic1)
 ### Signals
 ![Signals](https://raw.githubusercontent.com/guoxiaowhu/GWSC22_NAOC/main/Ralspi/topic1/result/signal%20figure2.png)
 from Wenyuan Guo (ralspi)
@@ -55,7 +55,7 @@ from Mu Bo
 ![FFT LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/FFT_LTC.png?raw=true)
 ![Spe LTC](https://github.com/guoxiaowhu/GWSC22_NAOC/blob/main/Xiao_Guo/figs/spe_LTC_n.png?raw=true)
 
-Also see [_Ti Gong's topic 4_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Ti_Gong/Topic4)
+Also see [_Ti_Gong's topic4_](https://github.com/guoxiaowhu/GWSC22_NAOC/tree/main/Ti_Gong/Topic4)
 ## Topic 5 (GLRT Optimization)
 With _test\_crcbpso.m_
 fitness function is Sigma\_i((x\_i-35.5)^2-10*cos(2*pi*x)+10)

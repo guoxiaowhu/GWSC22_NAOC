@@ -81,4 +81,4 @@ Some lecture notes can see [this link](https://note.youdao.com/ynoteshare/index.
 Codes can refer to [Soumya D. Mohanty](https://github.com/mohanty-sd)'s [GWSC](https://github.com/mohanty-sd/GWSC), and [DATASCIENCE_COURSE](https://github.com/mohanty-sd/DATASCIENCE_COURSE). Some codes and materials can also see [GWSC_NAOC](https://github.com/guoxiaowhu/GWSC_NAOC) in last year.
 
 The repositories for other groups are [GWSC22-LNNU-ET-AL](https://github.com/octogen4/GWSC22-LNNU-ET-AL) and [
-GravitionalWaves](https://github.com/jinshuzhu1999/GravitionalWaves)
+GravitionalWaves](https://github.com/jinshuzhu1999/GravitionalWaves).
